@@ -1,2 +1,2 @@
 # HeadFirstPython
-Head First Python
+Exercises from Head First Python, 2nd Edition
